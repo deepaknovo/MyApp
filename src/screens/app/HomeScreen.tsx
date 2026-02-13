@@ -28,7 +28,7 @@ export default function HomeScreen() {
 // };
 
    useEffect(() => {
-    getHoldings()
+    // getHoldings()
   }, []);
 
 
